@@ -1,4 +1,4 @@
-# Simple DevOps Project
+# DevOps
 
 This Repository is a collection of Implementation documents. 
 
